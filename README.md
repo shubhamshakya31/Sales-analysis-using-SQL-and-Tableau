@@ -32,7 +32,7 @@ The dataset consisted of the following tables:
      - Analysis of customer purchasing behavior and segmentation.
      - Identification of top-performing sellers and geographic regions.
 
-3. **Data Visualization with Tableau**  
+3. **Data Visualization with Tableau(https://public.tableau.com/views/TargetSalesAnalysisDashboard/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**  
    - The results of the SQL queries were visualized using Tableau.
    - Dashboards provided a comprehensive view of sales metrics, including:
      - Interactive visualizations showing sales trends and patterns.
